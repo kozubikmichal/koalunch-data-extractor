@@ -6,3 +6,10 @@ node_modules/
 
 # Project files:
 *.sublime-*
+
+# dotenv environment variables file
+.env
+.env.local
+.env.test
+
+.vscode/
