@@ -57,6 +57,6 @@
   },
   "dependencies": {
     "dotenv": "^16.4.5",
-    "firebase-admin": "^11.11.1"
+    "firebase-admin": "^12.1.0"
   }
 }
